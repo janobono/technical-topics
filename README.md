@@ -6,7 +6,7 @@ really soon. This repository is my personal preparation for the following techni
 - [OOP](./oop/README.md)
 - [SOLID](./solid/README.md)
 - [Java Core](./java_core/README.md)
-- [Java Multithreading + Concurrency]()
+- [Java Multithreading + Concurrency](./java_multithreading_+_concurrency/README.md)
 - [SQL]()
 - [Hibernate]()
 - [Spring]()
