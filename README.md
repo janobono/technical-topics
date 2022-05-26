@@ -16,5 +16,5 @@ really soon. This repository is my personal preparation for the following techni
 - [Testing]()
 - [Git]()
 - [Algorithms]()
-- [GoF patterns]() 
+- [GoF patterns](./gof_patterns/README.md) 
 - [Vocabulary](./vocabulary/README.md)
