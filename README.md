@@ -12,7 +12,7 @@ really soon. This repository is my personal preparation for the following techni
 - [Spring]()
 - [RESTful APIs]()
 - [Software architecture (microservices, SOA)]()
-- [Java Memory Model]()
+- [Java Memory Model](./java_memory_model/README.md)
 - [Testing](./testing/README.md)
 - [Git](./git/README.md)
 - [Algorithms](./algorithms/README.md)
