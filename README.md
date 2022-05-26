@@ -15,6 +15,6 @@ really soon. This repository is my personal preparation for the following techni
 - [Java Memory Model]()
 - [Testing]()
 - [Git]()
-- [Algorithms]()
+- [Algorithms](./algorithms/README.md)
 - [GoF patterns](./gof_patterns/README.md) 
 - [Vocabulary](./vocabulary/README.md)
