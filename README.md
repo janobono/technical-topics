@@ -7,7 +7,7 @@ really soon. This repository is my personal preparation for the following techni
 - [SOLID](./solid/README.md)
 - [Java Core](./java_core/README.md)
 - [Java Multithreading + Concurrency](./java_multithreading_+_concurrency/README.md)
-- [SQL]()
+- [SQL](./sql/README.md)
 - [Hibernate]()
 - [Spring]()
 - [RESTful APIs]()
