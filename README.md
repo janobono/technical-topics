@@ -14,7 +14,7 @@ really soon. This repository is my personal preparation for the following techni
 - [Software architecture (microservices, SOA)]()
 - [Java Memory Model]()
 - [Testing]()
-- [Git]()
+- [Git](./git/README.md)
 - [Algorithms](./algorithms/README.md)
 - [GoF patterns](./gof_patterns/README.md) 
 - [Vocabulary](./vocabulary/README.md)
