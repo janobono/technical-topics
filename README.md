@@ -8,7 +8,7 @@ really soon. This repository is my personal preparation for the following techni
 - [Java Core](./java_core/README.md)
 - [Java Multithreading + Concurrency](./java_multithreading_+_concurrency/README.md)
 - [SQL](./sql/README.md)
-- [Hibernate]()
+- [Hibernate](./hibernate/README.md)
 - [Spring]()
 - [RESTful APIs]()
 - [Software architecture (microservices, SOA)]()
