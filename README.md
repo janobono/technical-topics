@@ -11,7 +11,7 @@ really soon. This repository is my personal preparation for the following techni
 - [Hibernate](./hibernate/README.md)
 - [Spring](./spring/README.md)
 - [RESTful API](./restful_api/README.md)
-- [Software architecture (microservices, SOA)]()
+- [Software architecture (microservices, SOA)](./software_architecture/README.md)
 - [Java Memory Model](./java_memory_model/README.md)
 - [Testing](./testing/README.md)
 - [Git](./git/README.md)
